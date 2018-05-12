@@ -1,0 +1,25 @@
+_repo: Suzanna-Stirs-the-Fire_18499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blake, Emily Calvin
+    birthdate: 1882
+    gutenberg_agent_id: '8068'
+    url: http://www.gutenberg.org/2009/agents/8068
+description: ''
+gutenberg_issued: '2006-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: Suzanna Stirs the Fire
+url: http://www.gutenberg.org/ebooks/18499
